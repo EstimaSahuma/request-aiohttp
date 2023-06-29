@@ -7,7 +7,7 @@ os.system('clear')
 os.system('figlet REQUEST - ATTACK')
 print ('by AcidShell')
 
-url = "http://investprime.itgest.co.ao/" # ALVO
+url = "http://test.com/ # ALVO
 num_requisicoes = 1000 # MAXIMO
 pool_size = 100 # ENVIOS ( recomendado - 100 )
 
